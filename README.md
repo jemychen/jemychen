@@ -4,7 +4,7 @@ Welcome to my GitHub!
 Developer, gamer, and everday learner.
 
 # 💫 About Me:
-🌆Based in NYC & Philadelphia<br>💻I'm currently building projects for Python, Java, and JavaScript<br>🌍Worked at 2 different startups in two different countries<br>📕Teaching myself Java and Spring Boot<br>🏍️Motorcycle enthusiast
+🌆 Based in NYC & Philadelphia<br>💻 I'm currently building projects for Python, Java, and JavaScript<br>🌍 Worked at 2 different startups in two different countries<br>📕 Currently learning Java and Golang <br>🏍️ Motorcycle enthusiast
 
 
 ## 🌐 Socials:
